@@ -1,0 +1,9 @@
+# Credenciales privadas
+.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
